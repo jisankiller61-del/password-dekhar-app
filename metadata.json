@@ -1,0 +1,5 @@
+{
+  "name": "SecureGuard: Social Media Security Educator",
+  "description": "A comprehensive educational application designed to teach users how to protect their online accounts from hacking, phishing, and unauthorized access. It features a password strength analyzer, security checklists, and an AI security consultant.",
+  "requestFramePermissions": []
+}
